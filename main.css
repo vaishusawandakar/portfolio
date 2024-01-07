@@ -1,0 +1,67 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+section {
+    margin-top: 30px;
+}
+
+h2 {
+    color: #2c90e7;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.job,
+.degree {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.heading:hover{
+    color: #2c90e7;
+}
+.img{
+    width: 100%;
+}
+.imgpro{
+ width: 25vw;
+}
+/* Add responsive styles as needed */
